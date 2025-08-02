@@ -318,7 +318,8 @@ struct ContentView: View {
                Text("Congrats.")
                Text("Your score is \(score)/\(questions.count).")
                Text("Wow.")
-           }VStack {
+           }
+           VStack {
                Text("Congrats.")
                Text("Your score is \(score)/\(questions.count).")
                Text("Wow.")
