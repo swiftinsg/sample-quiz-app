@@ -89,7 +89,7 @@ struct ContentView: View {
         }
        .sheet(isPresented: $isSheetShown) {
            VStack {
-               Text("Congrats.")
+               Text("Congratulationés.")
                Text("Your score is \(score)/\(questions.count).")
                Text("Wow.")
            }
