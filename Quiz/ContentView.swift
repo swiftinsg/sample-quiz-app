@@ -12,7 +12,7 @@ struct ContentView: View {
     // See QuizQuestion.swift for the struct definition
     let questions = [
         QuizQuestion(questionTitle: "What is the day today?", option1Title: "Monday", option2Title: "Wednesday", option3Title: "Friday", option4Title: "Saturday", correctOption: .option4),
-        QuizQuestion(questionTitle: "Who is your instructor", option1Title: "ZJ", option2Title: "XZ", option3Title: "AB", option4Title: "YJ", correctOption: .option4),
+        QuizQuestion(questionTitle: "Who is your instructor", option1Title: "Jia Chen", option2Title: "XZ", option3Title: "AB", option4Title: "YJ", correctOption: .option4),
         QuizQuestion(questionTitle: "Where are we having lessons?", option1Title: "Banana", option2Title: "Apple", option3Title: "Pineapple", option4Title: "Orange", correctOption: .option2)
     ]
     
