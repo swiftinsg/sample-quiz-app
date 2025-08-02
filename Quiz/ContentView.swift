@@ -93,7 +93,263 @@ struct ContentView: View {
                Text("Your score is \(score)/\(questions.count).")
                Text("Wow.")
            }
-       }
+           VStack {
+               Text("Congrats.")
+               Text("Your score is \(score)/\(questions.count).")
+               Text("Wow.")
+           }
+           VStack {
+               Text("Congrats.")
+               Text("Your score is \(score)/\(questions.count).")
+               Text("Wow.")
+           }
+           VStack {
+               Text("Congrats.")
+               Text("Your score is \(score)/\(questions.count).")
+               Text("Wow.")
+           }
+           VStack {
+               Text("Congrats.")
+               Text("Your score is \(score)/\(questions.count).")
+               Text("Wow.")
+           }
+           VStack {
+               Text("Congrats.")
+               Text("Your score is \(score)/\(questions.count).")
+               Text("Wow.")
+           }
+           VStack {
+               Text("Congrats.")
+               Text("Your score is \(score)/\(questions.count).")
+               Text("Wow.")
+           }
+           VStack {
+               Text("Congrats.")
+               Text("Your score is \(score)/\(questions.count).")
+               Text("Wow.")
+           }
+           VStack {
+               Text("Congrats.")
+               Text("Your score is \(score)/\(questions.count).")
+               Text("Wow.")
+           }
+           
+           VStack {
+               Text("Congrats.")
+               Text("Your score is \(score)/\(questions.count).")
+               Text("Wow.")
+           }
+           VStack {
+               Text("Congrats.")
+               Text("Your score is \(score)/\(questions.count).")
+               Text("Wow.")
+           }
+           VStack {
+               Text("Congrats.")
+               Text("Your score is \(score)/\(questions.count).")
+               Text("Wow.")
+           }
+           VStack {
+               Text("Congrats.")
+               Text("Your score is \(score)/\(questions.count).")
+               Text("Wow.")
+           }
+           VStack {
+               Text("Congrats.")
+               Text("Your score is \(score)/\(questions.count).")
+               Text("Wow.")
+           }
+           VStack {
+               Text("Congrats.")
+               Text("Your score is \(score)/\(questions.count).")
+               Text("Wow.")
+           }
+           VStack {
+               Text("Congrats.")
+               Text("Your score is \(score)/\(questions.count).")
+               Text("Wow.")
+           }
+           VStack {
+               Text("Congrats.")
+               Text("Your score is \(score)/\(questions.count).")
+               Text("Wow.")
+           }
+           VStack {
+               Text("Congrats.")
+               Text("Your score is \(score)/\(questions.count).")
+               Text("Wow.")
+           }
+           VStack {
+               Text("Congrats.")
+               Text("Your score is \(score)/\(questions.count).")
+               Text("Wow.")
+           }
+           VStack {
+               Text("Congrats.")
+               Text("Your score is \(score)/\(questions.count).")
+               Text("Wow.")
+           }
+           VStack {
+               Text("Congrats.")
+               Text("Your score is \(score)/\(questions.count).")
+               Text("Wow.")
+           }
+           VStack {
+               Text("Congrats.")
+               Text("Your score is \(score)/\(questions.count).")
+               Text("Wow.")
+           }
+           VStack {
+               Text("Congrats.")
+               Text("Your score is \(score)/\(questions.count).")
+               Text("Wow.")
+           }
+           VStack {
+               Text("Congrats.")
+               Text("Your score is \(score)/\(questions.count).")
+               Text("Wow.")
+           }
+           VStack {
+               Text("Congrats.")
+               Text("Your score is \(score)/\(questions.count).")
+               Text("Wow.")
+           }
+           VStack {
+               Text("Congrats.")
+               Text("Your score is \(score)/\(questions.count).")
+               Text("Wow.")
+           }
+           VStack {
+               Text("Congrats.")
+               Text("Your score is \(score)/\(questions.count).")
+               Text("Wow.")
+           }
+           VStack {
+               Text("Congrats.")
+               Text("Your score is \(score)/\(questions.count).")
+               Text("Wow.")
+           }
+           VStack {
+               Text("Congrats.")
+               Text("Your score is \(score)/\(questions.count).")
+               Text("Wow.")
+           }
+           VStack {
+               Text("Congrats.")
+               Text("Your score is \(score)/\(questions.count).")
+               Text("Wow.")
+           }
+           VStack {
+               Text("Congrats.")
+               Text("Your score is \(score)/\(questions.count).")
+               Text("Wow.")
+           }
+           VStack {
+               Text("Congrats.")
+               Text("Your score is \(score)/\(questions.count).")
+               Text("Wow.")
+           }
+           VStack {
+               Text("Congrats.")
+               Text("Your score is \(score)/\(questions.count).")
+               Text("Wow.")
+           }
+           VStack {
+               Text("Congrats.")
+               Text("Your score is \(score)/\(questions.count).")
+               Text("Wow.")
+           }
+           VStack {
+               Text("Congrats.")
+               Text("Your score is \(score)/\(questions.count).")
+               Text("Wow.")
+           }
+           VStack {
+               Text("Congrats.")
+               Text("Your score is \(score)/\(questions.count).")
+               Text("Wow.")
+           }
+           VStack {
+               Text("Congrats.")
+               Text("Your score is \(score)/\(questions.count).")
+               Text("Wow.")
+           }
+           VStack {
+               Text("Congrats.")
+               Text("Your score is \(score)/\(questions.count).")
+               Text("Wow.")
+           }
+           VStack {
+               Text("Congrats.")
+               Text("Your score is \(score)/\(questions.count).")
+               Text("Wow.")
+           }
+           VStack {
+               Text("Congrats.")
+               Text("Your score is \(score)/\(questions.count).")
+               Text("Wow.")
+           }
+           VStack {
+               Text("Congrats.")
+               Text("Your score is \(score)/\(questions.count).")
+               Text("Wow.")
+           }
+           VStack {
+               Text("Congrats.")
+               Text("Your score is \(score)/\(questions.count).")
+               Text("Wow.")
+           }
+           VStack {
+               Text("Congrats.")
+               Text("Your score is \(score)/\(questions.count).")
+               Text("Wow.")
+           }
+           VStack {
+               Text("Congrats.")
+               Text("Your score is \(score)/\(questions.count).")
+               Text("Wow.")
+           }
+           VStack {
+               Text("Congrats.")
+               Text("Your score is \(score)/\(questions.count).")
+               Text("Wow.")
+           }
+           VStack {
+               Text("Congrats.")
+               Text("Your score is \(score)/\(questions.count).")
+               Text("Wow.")
+           }VStack {
+               Text("Congrats.")
+               Text("Your score is \(score)/\(questions.count).")
+               Text("Wow.")
+           }
+           VStack {
+               Text("Congrats.")
+               Text("Your score is \(score)/\(questions.count).")
+               Text("Wow.")
+           }
+           VStack {
+               Text("Congrats.")
+               Text("Your score is \(score)/\(questions.count).")
+               Text("Wow.")
+           }
+           VStack {
+               Text("Congrats.")
+               Text("Your score is \(score)/\(questions.count).")
+               Text("Wow.")
+           }
+           VStack {
+               Text("Congrats.")
+               Text("Your score is \(score)/\(questions.count).")
+               Text("Wow.")
+           }
+           VStack {
+               Text("Congrats.")
+               Text("Your score is \(score)/\(questions.count).")
+               Text("Wow.")
+           }
+           
+                  }
     }
 }
 
