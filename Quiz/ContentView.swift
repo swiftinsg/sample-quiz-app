@@ -77,7 +77,7 @@ struct ContentView: View {
                     optionSelected: .option4)
             }
         }
-        .alert(isCorrect ? "Well done!" : "Nope",
+        .alert(isCorrect ? "yes :)" : "no :(",
                isPresented: $isAlertShown) {
             Button("OK") {
                 if questionIndex == questions.count - 1 {
@@ -89,7 +89,7 @@ struct ContentView: View {
         }
        .sheet(isPresented: $isSheetShown) {
            VStack {
-               Text("Congratulationés.")
+               Text("Congrats.")
                Text("Your score is \(score)/\(questions.count).")
                Text("Wow.")
            }
